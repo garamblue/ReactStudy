@@ -4,7 +4,7 @@ export default function TailwindComponent() {
   return (
     <div>
       <h1 className="text-7xl">
-        Happy New Year my dear brother ❤
+        Happy New Year !!! ❤
         <br />
         Please tell your family I miss them and love them all.
       </h1>
